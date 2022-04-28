@@ -1,0 +1,19 @@
+.myborder{
+    border: 1px #f7f7f7 solid;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px #e4ddd0;
+}
+.banner{
+    height: 150px;
+}
+.menu{
+    height: 70px;
+    position:sticky;
+    top:0px;
+    z-index: 1;
+    background-color: white;
+    
+}
+.btnPadding{
+ margin-left: 15px;
+}
